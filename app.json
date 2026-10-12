@@ -1,0 +1,25 @@
+{
+  "id": "f3cf5c06-8d58-4893-8266-b91584d8fc55",
+  "name": "VJ",
+  "publisher": "Vijay",
+  "version": "2022.01.10.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 70000
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "8.0"
+}
