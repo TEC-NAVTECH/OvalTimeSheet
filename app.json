@@ -1,25 +1,29 @@
 {
-  "id": "f3cf5c06-8d58-4893-8266-b91584d8fc55",
-  "name": "VJ",
-  "publisher": "Vijay",
-  "version": "2022.01.10.1",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
-  "logo": "",
-  "dependencies": [],
-  "screenshots": [],
-  "platform": "1.0.0.0",
-  "application": "18.0.0.0",
+  "id": "0849ddd2-4d34-4ed8-81e2-3c2858ef7e95",
+  "name": "Time Sheet Modification",
+  "publisher": "Tectura_VJ22",
+  "description": "Created Monthly time sheet page and manager time sheet page",
+  "version": "1.0.0.59",
+  "runtime": "13.0",
+  "target": "Cloud",
+  "application": "29.0.0.0",
+  "platform": "29.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": false,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NoImplicitWith"
+  ],
   "idRanges": [
     {
-      "from": 50000,
-      "to": 70000
+      "from": 50100,
+      "to": 50160
     }
   ],
-  "showMyCode": true,
-  "runtime": "8.0"
+  "build": {
+    "by": "AL Language Extension,15.2.1630495"
+  }
 }

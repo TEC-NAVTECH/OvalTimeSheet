@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Time Sheet Modification",
+            "request": "launch",
+            "type": "al",        
+            "tenant": "49d00e8f-294d-490f-94d9-07b340a08d43",                       
+            "environmentType": "Sandbox",
+            "environmentName": "ProdCopy_20261001",     
+           // "environmentName": "Sandbox_2026",              
+
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "Synchronize"
+        }
+    ]
+}
